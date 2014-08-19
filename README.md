@@ -1,4 +1,4 @@
 happy_trails
 ============
 
-Learning rails
+Testing rails
